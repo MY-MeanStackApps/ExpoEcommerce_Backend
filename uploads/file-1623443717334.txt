@@ -1,0 +1,43 @@
+1.While registering seller 
+There should be single entry in business table 
+
+2.Not getting OTP on email 
+
+3.Country dropdown missing 
+
+4.All field should be at every table 
+
+5.deleted at field  ? it should be deleted & one more field deleted by 
+
+6.Individual email not inserting 
+
+7.phone book table missing 
+
+8.at media table blank record should not inserted 
+
+9.Backed process stop while some error occurred 
+
+all field should be visible at table (fields are missing)
+
+
+-Table name bussinesses will be change to businesses
+-why you used deletedAt: { type: String, default: null },        in all models
+
+-you used individual,bussiness column names as foreign key while we gave ind_id,bus_id so it is required or you changed it
+
+
+
+parent entity name -screen name(product/business/billing)
+parent entity Id (will be id)
+
+
+
+
+
+
+
+
+
+
+
+
